@@ -1,0 +1,9 @@
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/progressbar.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/progressbar_autogen_timestamp_deps.dir
+/home/parvez/Documents/qtp/build-progressbar-Desktop_Qt_6_4_1_GCC_64bit-Debug/CMakeFiles/progressbar_autogen.dir
